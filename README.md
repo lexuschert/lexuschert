@@ -8,4 +8,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lexuschert&show_icons=true&theme=vision-friendly-dark&bg_color=0d1117&border_radius=10&hide_border=true"/>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lexuschert)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexuschert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
