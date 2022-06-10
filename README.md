@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lexuschert.lexuschert)
 [![Twitter follow](https://img.shields.io/twitter/follow/lexuschert?label=Follow)](https://twitter.com/intent/follow?screen_name=lexuschert)
 [![GitHub lexuschert](https://img.shields.io/github/followers/lexuschert?label=follow&style=social)](https://github.com/lexuschert)
